@@ -3,4 +3,6 @@ project(calcula_estatistica C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(calcula_estatistica main.c)
+add_executable(calcula_estatistica main.c
+        estatistica.h
+        estatistica.c)
