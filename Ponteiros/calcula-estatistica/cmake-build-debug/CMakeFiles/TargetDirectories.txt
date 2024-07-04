@@ -1,0 +1,3 @@
+/Users/viniciusfm/Documents/Code/AED/Ponteiros/calcula-estatistica/cmake-build-debug/CMakeFiles/calcula_estatistica.dir
+/Users/viniciusfm/Documents/Code/AED/Ponteiros/calcula-estatistica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viniciusfm/Documents/Code/AED/Ponteiros/calcula-estatistica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
