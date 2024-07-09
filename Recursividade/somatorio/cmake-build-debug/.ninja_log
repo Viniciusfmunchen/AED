@@ -1,0 +1,6 @@
+# ninja log v6
+6	193	1720553286746266267	CMakeFiles/somatorio.dir/somatorio.c.o	d3990e929638cb98
+3	217	1720553286743633438	CMakeFiles/somatorio.dir/main.c.o	9ea44b4a313f4bdd
+217	554	1720553286957256456	somatorio	395e381f98ac7a7f
+1	146	1720553299501025014	CMakeFiles/somatorio.dir/main.c.o	9ea44b4a313f4bdd
+146	253	1720553299645643463	somatorio	395e381f98ac7a7f

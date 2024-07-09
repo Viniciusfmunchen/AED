@@ -1,0 +1,3 @@
+/Users/viniciusfm/Documents/Code/AED/Recursividade/imprime-inteiros/cmake-build-debug/CMakeFiles/imprime_inteiros.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/imprime-inteiros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/imprime-inteiros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
