@@ -1,0 +1,3 @@
+/Users/viniciusfm/Documents/Code/AED/Recursividade/fatorial-exponencial/cmake-build-debug/CMakeFiles/fatorial_exponencial.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/fatorial-exponencial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/fatorial-exponencial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
