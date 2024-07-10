@@ -1,0 +1,3 @@
+/Users/viniciusfm/Documents/Code/AED/Recursividade/superfatorial/cmake-build-debug/CMakeFiles/superfatorial.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/superfatorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viniciusfm/Documents/Code/AED/Recursividade/superfatorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
